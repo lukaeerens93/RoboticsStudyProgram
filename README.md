@@ -19,7 +19,17 @@
 - [Convolutional Neural Networks for Visual Recognition (Stanford CS231n)](http://cs231n.stanford.edu/syllabus.html) Best course on modern day neural net based perception
 - [Statistical Methods in Robotics (Carnegie Mellon)](https://www.dropbox.com/sh/fz28miofk05obzm/AAA2IV0LDq4H5e5C-aczPLFza?dl=0) Best introductory course on making robust intelligent robots that have to deal with uncertainty
 
-## Semester 3 (Capable of Great Things) (60 days)
+## Semester 3 (Capable of Great Things) (100 days)
 - [Geometric Computer Vision (Carnegie Mellon)]() Deals with projections, homography, epipolar geometry, stereoscopic vision, 3D reconstruction, Calibration
 - [Convex Optimization (Carnegie Mellon)](http://www.stat.cmu.edu/~ryantibs/convexopt/) Used to optimize motion of robots like Spot and Atlas from Boston Dynamics to give them smooth, fluid, steady, efficient gaits
 - [Deep Reinforcement Learning and Control (Carnegie Mellon)](http://www.andrew.cmu.edu/course/10-703) The future. That doesn't quite work yet. But worth studying nonetheless
+- [SLAM]()
+
+
+
+## Additional Resources
+#### Mathematics
+- [Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Calculus (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Probability (Khan Academy)](https://www.khanacademy.org/math/ap-statistics/probability-ap)
+- [Statistics (Khan Academy)](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
