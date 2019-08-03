@@ -22,4 +22,4 @@
 ## Semester 3 (Capable of Great Things) (60 days)
 - [Geometric Computer Vision (Carnegie Mellon)]() Deals with projections, homography, epipolar geometry, stereoscopic vision, 3D reconstruction, Calibration
 - [Convex Optimization (Carnegie Mellon)](http://www.stat.cmu.edu/~ryantibs/convexopt/) Used to optimize motion of robots like Spot and Atlas from Boston Dynamics to give them smooth, fluid, steady, efficient gaits
-- [Deep Reinforcement Learning and Control (Carnegie Mellon)] (http://www.andrew.cmu.edu/course/10-703/) The future. That doesn't quite work yet. But worth studying nonetheless
+- [Deep Reinforcement Learning and Control (Carnegie Mellon)] (http://www.andrew.cmu.edu/course/10-703) The future. That doesn't quite work yet. But worth studying nonetheless
