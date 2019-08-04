@@ -20,7 +20,7 @@
 - [Statistical Methods in Robotics (Carnegie Mellon)](https://www.dropbox.com/sh/fz28miofk05obzm/AAA2IV0LDq4H5e5C-aczPLFza?dl=0) Best introductory course on making robust intelligent robots that have to deal with uncertainty
 
 ## Semester 3 (Capable of Great Things) (100 days)
-- [Geometric Computer Vision (Carnegie Mellon)]() Deals with projections, homography, epipolar geometry, stereoscopic vision, 3D reconstruction, Calibration
+- [Geometric Computer Vision (Carnegie Mellon)](https://www.dropbox.com/sh/dv84bg2jubs37qi/AAB6R6rQUCD4dnk-R2-Hq2kIa?dl=0) Deals with projections, homography, epipolar geometry, stereoscopic vision, 3D reconstruction, Calibration
 - [Convex Optimization (Carnegie Mellon)](http://www.stat.cmu.edu/~ryantibs/convexopt/) Used to optimize motion of robots like Spot and Atlas from Boston Dynamics to give them smooth, fluid, steady, efficient gaits
 - [Deep Reinforcement Learning and Control (Carnegie Mellon)](http://www.andrew.cmu.edu/course/10-703) The future. That doesn't quite work yet. But worth studying nonetheless
 - [SLAM]()
