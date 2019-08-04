@@ -18,7 +18,7 @@
 - [Robot Autonomy (Carnegie Mellon)](https://www.dropbox.com/sh/qj16faks8y4t0jj/AAB5QESVdpy_qsts22J6LkBBa?dl=0) Delves into all core aspects of robot autonomy for strong foundations in grasping, planning, mapping, decision-making etc.
 - [Convolutional Neural Networks for Visual Recognition (Stanford CS231n)](http://cs231n.stanford.edu/syllabus.html) Best course on modern day neural net based perception
 - [Statistical Methods in Robotics (Carnegie Mellon)](https://www.dropbox.com/sh/fz28miofk05obzm/AAA2IV0LDq4H5e5C-aczPLFza?dl=0) Best introductory course on making robust intelligent robots that have to deal with uncertainty
-- [SLAM](https://www.dropbox.com/sh/dv84bg2jubs37qi/AAB6R6rQUCD4dnk-R2-Hq2kIa?dl=0) Necessary to instil robots with reliable ability to localize themselves, and map their surroundings in an actionable way
+- [SLAM (Carnegie Mellon)](https://www.dropbox.com/sh/dv84bg2jubs37qi/AAB6R6rQUCD4dnk-R2-Hq2kIa?dl=0) Necessary to instil robots with reliable ability to localize themselves, and map their surroundings in an actionable way
 
 ## Semester 3 (Capable of Great Things) (100 days)
 - [Geometric Computer Vision (Carnegie Mellon)](https://www.dropbox.com/sh/dv84bg2jubs37qi/AAB6R6rQUCD4dnk-R2-Hq2kIa?dl=0) Deals with projections, homography, epipolar geometry, stereoscopic vision, 3D reconstruction, Calibration
@@ -33,3 +33,11 @@
 - [Calculus (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Probability (Khan Academy)](https://www.khanacademy.org/math/ap-statistics/probability-ap)
 - [Statistics (Khan Academy)](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+
+#### Machine Learning
+- [Reinforcement Learning (David Silver Deepmind UCL)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [Advanced Deep Learning and Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
+#### Modern Research Papers
+- [Arxiv Sanity](http://www.arxiv-sanity.com/top)
+- [Github Summaries of Major Research Papers](https://github.com/aleju/papers)
