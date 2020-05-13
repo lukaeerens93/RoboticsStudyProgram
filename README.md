@@ -32,6 +32,6 @@
 | ----- | ----- | ----- | ----- |
 | [Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | [Reinforcement Learning (David Silver Deepmind UCL)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | [Arxiv Sanity](http://www.arxiv-sanity.com/top) | [Python Robotics Algo Implementations](https://github.com/AtsushiSakai/PythonRobotics) |
 | [Calculus (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | [Advanced Deep Learning and Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | [Github Summaries of Major Research Papers](https://github.com/aleju/papers) |
-| [Probability (Khan Academy)](https://www.khanacademy.org/math/ap-statistics/probability-ap) |  |  |
+| [Probability (Khan Academy)](https://www.khanacademy.org/math/ap-statistics/probability-ap) | [OpenAI Spinning Up RL Tutorials](https://spinningup.openai.com/en/latest/index.html) |  |
 | [Statistics (Khan Academy)](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) |  | |
 
